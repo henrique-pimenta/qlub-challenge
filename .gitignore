@@ -1,0 +1,15 @@
+**/*.log
+**/logs
+**/logs.*
+**/*.vscode
+**/*.pyc
+**/__pycache__
+**/*.pytest_cache
+**/*.cache
+**/*tmp/*
+**/env/
+**/venv/
+**/.venv/
+**/*.md
+!README*.md
+**/*.env
